@@ -1,0 +1,18 @@
+# Local environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+# Optional regenerated simulation outputs
+*.mp4
+*.avi
+*.fig
+**/matlab_comparison_figures/
+*.asv
+*.log
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+~$*
